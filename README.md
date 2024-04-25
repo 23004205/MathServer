@@ -1,5 +1,5 @@
 # Ex.05 Design a Website for Server Side Processing
-## Date:
+## Date:25-04-2024
 
 ## AIM:
 To design a website to find surface area of a Right Cylinder in server side.
@@ -31,7 +31,7 @@ Publish the website in the given URL.
 
 ## PROGRAM :
 ```
-arise.html
+math.html
 
 <html>
 <head>
@@ -133,11 +133,10 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![image](https://github.com/23004205/MathServer/assets/138971114/fa1721c8-b394-4cf9-9102-1afb686ef07d)
-
+![alt text](<Screenshot 2024-04-25 210209.png>)
 
 ## HOMEPAGE:
-![image](https://github.com/23004205/MathServer/assets/138971114/753f4a21-a2da-450a-bb53-7d8fc35729e6)
+![alt text](<Screenshot 2024-04-25 210234.png>)
 
 
 ## RESULT:
